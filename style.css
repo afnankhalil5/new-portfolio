@@ -17,6 +17,7 @@ h3 {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-widht {
@@ -42,4 +43,10 @@ section {
     background-image: url(yp2.png.jpg);
     background-repeat: no-repeat;
 
+}
+
+.sleep-more {
+    background-image: url(vip.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
