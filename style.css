@@ -15,7 +15,7 @@ h3 {
     font-size: 30px;
 }
 
-section {
+.flexi {
     display: flex;
     margin-bottom: 150px;
 }
@@ -49,4 +49,36 @@ section {
     background-image: url(vip.jpg);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.Experiences {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 8px;
+    box-shadow: 10px 10px 30px gray;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.something {
+    background-image: url(new4.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+#full-time {
+    border-left: 7px solid palevioletred;
+}
+
+#all-time {
+    border-left: 7px solid grey;
+}
+
+footer p {
+    text-align: center;
 }
